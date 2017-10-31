@@ -1,0 +1,3 @@
+/home/abner/visp-ws/visp-test/CMakeFiles/edit_cache.dir
+/home/abner/visp-ws/visp-test/CMakeFiles/rebuild_cache.dir
+/home/abner/visp-ws/visp-test/CMakeFiles/test.dir
