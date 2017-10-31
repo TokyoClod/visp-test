@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/abner/visp-ws/visp-test/test.cpp
+/home/abner/visp-ws/visp-test/blob_track/test.cpp
 visp3/gui/vpDisplayGDI.h
 -
 visp3/gui/vpDisplayOpenCV.h

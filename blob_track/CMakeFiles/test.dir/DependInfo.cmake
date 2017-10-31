@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/abner/visp-ws/visp-test/test.cpp" "/home/abner/visp-ws/visp-test/CMakeFiles/test.dir/test.cpp.o"
+  "/home/abner/visp-ws/visp-test/blob_track/test.cpp" "/home/abner/visp-ws/visp-test/blob_track/CMakeFiles/test.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
