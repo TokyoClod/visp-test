@@ -6,7 +6,7 @@
 int main()
 {
   try {
-    bool learn = false;
+    bool learn = true;
     vpImage<unsigned char> I; // Create a gray level image container
     vpImageIo::read(I, "./target.pgm");
 #if defined(VISP_HAVE_X11)
